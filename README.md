@@ -12,7 +12,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Gmail-000?style=flat-square&logo=gmail&logoColor=red&labelColor=black&color=black">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Gmail-000?style=flat-square&logo=gmail&logoColor=red&labelColor=ffffff&color=ffffff">
-    <img alt="Gmail logo" src="https://user-images.githubusercontent.com/71297412/178180441-59f1644e-2ab6-4bf0-866f-2c77b2a63433.png" height="22">
+    <img alt="Gmail logo" src="" height="22">
   </picture>
 </a>
 <br><br>&nbsp;&nbsp;
