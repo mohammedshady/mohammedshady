@@ -29,7 +29,7 @@
 </picture>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedshady&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=github_dark&hide_border=true&order=2&title_color=4493f8&text_color=E6EDF3&icon_color=4493f8&theme=dark&bg_color=00000000&custom_title=Langs" height="100%" alt="languages graph">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedshady&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=github_dark&hide_border=true&order=2&title_color=4493f8&text_color=E6EDF3&icon_color=4493f8&theme=dark&bg_color=00000000&custom_title=Langs" height="100%" alt="languages graph">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedshady&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=github_dark&hide_border=true&order=2&title_color=4493f8&text_color=00000&icon_color=4493f8&theme=dark&bg_color=00000000&custom_title=Langs" height="100%" alt="languages graph">
     <img alt="langs" src="">
 </picture>
 </div>
