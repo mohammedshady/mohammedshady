@@ -5,7 +5,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=blue">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin&logoColor=blue&labelColor=ffffff&color=ffffff">
-    <img alt="Linked In" src="" height="22">
+    <img alt="LinkedIn Logo" src="" height="22">
   </picture>
 </a>
 <a href="mailto:mohatech777@gmail.com">
@@ -23,8 +23,8 @@
 - :mortar_board: Studying: <strong> Data Science & Machine Learning </strong>.
 <div align="left" width="auto" >
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohammedshady&count_private=true&show_icons=false&include_all_commits=true&hide_border=true&hide=issues&title_color=4493f8&text_color=E6EDF3&icon_color=4493f8&theme=dark&bg_color=00000000&custom_title=Stats">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mohammedshady&count_private=true&show_icons=false&include_all_commits=true&hide_border=true&hide=issues&title_color=0969da&text_color=55585d&icon_color=4493f8&theme=dark&bg_color=00000000&custom_title=Stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohammedshady&count_private=true&show_icons=false&hide_border=true&hide=issues&title_color=4493f8&text_color=E6EDF3&icon_color=4493f8&theme=dark&bg_color=00000000&custom_title=Stats">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mohammedshady&count_private=true&show_icons=false&hide_border=true&hide=issues&title_color=0969da&text_color=55585d&icon_color=4493f8&theme=dark&bg_color=00000000&custom_title=Stats">
     <img alt="stats" src="">
 </picture>
 <picture>
